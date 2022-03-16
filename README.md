@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+![Logo](https://i.postimg.cc/hPt7L0kq/logo192.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Pocket Notes
 
-## Available Scripts
+**`Your Notes on the Cloud`**
 
-In the project directory, you can run:
+Pocket Notes is a `MERN Application` where you can take `E-Notes` anytime anywhere. You can `Add`, `Modify` or `Delete` a Note.  
+ Create a free acconut and `Login` to access your notes from anywhere in the world. Enjoy using the application in `Light` or `Dark` theme.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Light/Dark Theme Toggle
+- Signup & Login/Logout
+- Full Responsive Design
+- Single Page Web-Application
+- Notes on the Cloud
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Live Demo Website
 
-### `npm test`
+https://pocket-notes-mern.herokuapp.com/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tech Stack
 
-### `npm run build`
+**Client:** ReactJS, TailwindCSS, HTML, JavaScript
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Server:** Node, Express
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Database:** MongoDB
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Environment Variables
 
-### `npm run eject`
+To run this project, you will need to add the following environment variables to your .env file
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+`MONGODB_URI_STRING`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+`JWT_SECRET`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+`NODE_ENV`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Hi, I'm Devansh! 👋
 
-## Learn More
+- `Full Stack Web Developer`
+- `MERN Stack Developer`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🛠 Skills
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+`HTML` `CSS` `Javascript` `Bootstrap` `PHP` `MySQL`
 
-### Code Splitting
+`ReactJS` `MongoDB` `Express` `Node` `Tailwind CSS`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 🔗 Links
 
-### Analyzing the Bundle Size
+[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devanshdsoni/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshdsoni/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devanshdsoni)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### **Thanks for Visiting :)**
