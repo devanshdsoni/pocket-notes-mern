@@ -81,7 +81,12 @@ const Footer = () => {
         {" "}
         <span className="opacity-70">
           Designed and Created by{" "}
-          <a className="hover:text-violet-900 dark:hover:text-violet-500  underline underline-offset-2 decoration-dotted" href="https://github.com/devanshdsoni" target="_blank" rel="noreferrer">
+          <a
+            className="hover:text-violet-900 dark:hover:text-violet-500  underline underline-offset-2 decoration-dotted"
+            href="https://github.com/devanshdsoni/pocket-notes-mern"
+            target="_blank"
+            rel="noreferrer"
+          >
             {" "}
             Devansh Soni
           </a>

@@ -2,7 +2,7 @@ import { createContext, useState } from "react";
 const AuthContext = createContext();
 
 const AuthState = (props) => {
-  const host = "https://take-notes-mern.herokuapp.com";
+  const host = "https://pocket-notes-mern.herokuapp.com";
 
   const [user, setUser] = useState({ success: "", name: "", email: "" });
 
