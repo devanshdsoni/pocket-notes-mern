@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .container {
+    @apply px-3 m-auto md:px-20;
+  }
+}
+
+/* Show Edit Modal */
+.modal-show {
+  @apply visible opacity-100;
+}
