@@ -2,7 +2,7 @@ import { createContext, useState } from "react";
 const NoteContext = createContext();
 
 const NoteState = (props) => {
-  const host = "https://pocket-notes-mern.herokuapp.com";
+  const host = "https://pocket-notes-mern.onrender.com";
 
   //Notes variable using useState hook
   const iNotes = [];

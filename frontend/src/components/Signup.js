@@ -6,7 +6,7 @@ import visibleSvg from "../img/visibility_black_24dp.svg";
 import invisibleSvg from "../img/visibility_off_black_24dp.svg";
 
 const Signup = () => {
-  const host = "https://pocket-notes-mern.herokuapp.com";
+  const host = "https://pocket-notes-mern.onrender.com";
   const navigate = useNavigate();
 
   const noteContext = useContext(NoteContext);

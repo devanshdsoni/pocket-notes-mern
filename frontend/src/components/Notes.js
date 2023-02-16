@@ -103,7 +103,11 @@ const Notes = () => {
                 e.target.src = refreshGif;
                 await getNotes();
                 e.target.src = refreshStaticSvg;
-                showAlert(true, null, "Note Fetched Successfully!");
+                if (!localStorage.token) {
+                  navigate("/login");
+                } else {
+                  showAlert(true, null, "Note Fetched Successfully!");
+                }
               }}
               src={refreshStaticSvg}
               alt="Sync Notes"
